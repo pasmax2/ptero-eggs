@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+    font-family: 'UbuntuMonoRegular';
+    src: url('ubuntumono-r-webfont.eot');
+    src: url('ubuntumono-r-webfont.eot?') format('embedded-opentype'),
+         url('ubuntumono-r-webfont.woff') format('woff'),
+         url('ubuntumono-r-webfont.ttf') format('truetype'),
+         url('ubuntumono-r-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'UbuntuMonoItalic';
+    src: url('ubuntumono-ri-webfont.eot');
+    src: url('ubuntumono-ri-webfont.eot?') format('embedded-opentype'),
+         url('ubuntumono-ri-webfont.woff') format('woff'),
+         url('ubuntumono-ri-webfont.ttf') format('truetype'),
+         url('ubuntumono-ri-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
